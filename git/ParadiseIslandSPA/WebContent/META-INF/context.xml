@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context path="/ParadiseIslandSPA">
+<Resource name="jdbc/paospa"
+auth="Container"
+type="javax.sql.DataSource"
+username="sql2240093"
+password="cC6!xF7*"
+driverClassName="com.mysql.jdbc.Driver"
+url="jdbc:mysql://sql2.freemysqlhosting.net:3306/sql2240093"/>
+</Context>
