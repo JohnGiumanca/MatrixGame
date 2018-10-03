@@ -137,10 +137,12 @@ At every given moment when a level is not complete, the user can aim, shoot and 
 
 ## Presentation
 <p align="center">
-<img src="https://i.imgur.com/FgHHLyU.jpg" width="285" height="440" style="float: right;">
-<img src="https://i.imgur.com/lRkYTOK.jpg" width="285" height="440" style="float: right;">
-<img src="https://i.imgur.com/tkGMV2Y.jpg" width="285" height="440" style="float: right;">
-<img src="https://im2.ezgif.com/tmp/ezgif-2-2f2abb8b3414.gif" width="285" height="440" style="float: right;"/>
+<img src="https://i.imgur.com/FgHHLyU.jpg" width="420" height="315" style="float: right;">
+<img src="https://i.imgur.com/lRkYTOK.jpg" width="420" height="315" style="float: right;">
+<img src="https://i.imgur.com/tkGMV2Y.jpg" width="420" height="315" style="float: right;">
+<img src="https://user-images.githubusercontent.com/19936310/46440568-78177a00-c76c-11e8-9fb5-656675cd640e.gif" width="420" height="315" style="float: right;"/>
 </p>
-Full demo on [YouTube](https://www.youtube.com/watch?v=Et1WXffU3BE).
+
+Full demo on [YouTube](https://www.youtube.com/watch?v=Et1WXffU3BE/).
+
 
