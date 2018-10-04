@@ -19,7 +19,17 @@ The game has 3 levels. Your task is to aim with your joystick and shoot the enem
 
 Electronics:
 * 1 Arduino Uno
-* ...
+* 1 LSD Screen
+* 1 Potentiometer
+* MAX7291 Matrix driver
+* 8x8 LED Matrix
+* Breadboards
+* Wires
+* 2 Buttons
+* 1 Joystick
+* 220 ohm resistors
+
+
 
 ### Build
 The build it is quite simple. If you are a beginner, worry not because the project is entry level, you dont need any previous experience in arduino to do it. Before you start you need to accommodate yourself to some basic stuff. 
@@ -143,6 +153,4 @@ At every given moment when a level is not complete, the user can aim, shoot and 
 <img src="https://user-images.githubusercontent.com/19936310/46440568-78177a00-c76c-11e8-9fb5-656675cd640e.gif" width="420" height="315" style="float: right;"/>
 </p>
 
-Full demo on [YouTube](https://www.youtube.com/watch?v=Et1WXffU3BE/).
-
-
+### Full demo on [YouTube](https://www.youtube.com/watch?v=Et1WXffU3BE/).
